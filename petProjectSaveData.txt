@@ -1,0 +1,1 @@
+.tim,dog,1,1,2,false,.N/A(emptyPet),null,0,0,0,false,.N/A(emptyPet),null,0,0,0,false,.N/A(emptyPet),null,0,0,0,false,.N/A(emptyPet),null,0,0,0,false,!
